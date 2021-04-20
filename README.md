@@ -19,7 +19,7 @@
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
-    <li><a href="#about-me">About The Project</a></li>
+    <li><a href="#about-me">About Me</a></li>
     <li><a href="#things-i-do">Things I Do</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
