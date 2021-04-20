@@ -68,6 +68,6 @@ I can build you a laravel application for SaaS preferences, Custom CMS, Custom C
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [LinkedIn](https://www.linkedin.com/in/dawsonyweb/) - email
+Adam Dawson - [LinkedIn](https://www.linkedin.com/in/dawsonyweb/) - adamdawsonweb@gmail.com
 
 
