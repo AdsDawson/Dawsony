@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/AdsDawson/Dawsony/">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="adam-logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">About Me</h3>
