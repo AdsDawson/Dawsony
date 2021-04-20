@@ -1,3 +1,5 @@
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/dawsonyweb/]
+
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
