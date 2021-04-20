@@ -38,31 +38,31 @@ If you need a job done quickly and efficiently but don't want the hassle of gett
 <!-- THINGS I DO -->
 ## Things I Do
 
-1. BRAND IDENTITY
+1. **BRAND IDENTITY**</br>
 I offer full brand identity involving but not limited to logos, corporate identity, car design, brochures, leaflets, stamps, email footers and much more. Available as a package or as individual orders.
 
-2. UX/UI DESIGN
+2. **UX/UI DESIGN**</br>
 Good user interface and experience designs let you and your customers have a good experience on your website.
 
-3. RESPONSIVE WEB DESIGN & DEVELOPMENT
+3. **RESPONSIVE WEB DESIGN & DEVELOPMENT**</br>
 From responsive websites to mobile application design and development, whether you have an old website or don't have one at all. All the processes are available as a package or as individual orders depending on what you need.
 
-4. SEARCH ENGINE OPTIMISATION
+4. **SEARCH ENGINE OPTIMISATION**</br>
 I offer SEO tactics to boost your website up the Google ranks. As there is no magic code to do this there are ways to help your site gradually climb that difficult Google market.
 
-5. PSD TO HTML/CSS/PHP
+5. **PSD TO HTML/CSS/PHP**</br>
 You may already have a website designed and just need it building. I offer this conversion to HTML/CSS as a template to be used statically or within WordPress.
 
-6. CMS THEME DEVELOPMENT
+6. **CMS THEME DEVELOPMENT**</br>
 I can offer dynamic websites built within the best content management systems and frameworks so you can control the content that goes onto your website.
 
-7. EMAIL MARKETING CAMPAIGNS
+7. **EMAIL MARKETING CAMPAIGNS**</br>
 I offer email design and development along with marketing campaigns to reach all your customers and gain you subscribers. I also offer Newsletter/Email templates.
 
-8. BUG FIXING & WEBSITE UPDATES
+8. **BUG FIXING & WEBSITE UPDATES**</br>
 I can convert your old unresponsive website into a responsive mobile/tablet friendly version, this also offers updates on your aged website to make it look fresh and modern. I can also work through your bug lists and iron out any problems in the code, saving you time so you can do more important things.
 
-9. LARAVEL, VUE & CASHIER
+9. **LARAVEL, VUE & CASHIER**</br>
 I can build you a laravel application for SaaS preferences, Custom CMS, Custom CRM, Purchase Order Systems, Project Management System and Warehouse Management Systems and more.
 
 <!-- CONTACT -->
